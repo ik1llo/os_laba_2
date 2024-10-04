@@ -1,0 +1,3 @@
+/home/oleksii/Documents/os/lab_2/task_8/build/CMakeFiles/main.dir
+/home/oleksii/Documents/os/lab_2/task_8/build/CMakeFiles/edit_cache.dir
+/home/oleksii/Documents/os/lab_2/task_8/build/CMakeFiles/rebuild_cache.dir
